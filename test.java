@@ -1,1 +1,1 @@
-system.out.pringlt(".....");
+system.out.pringlt(".x....");
